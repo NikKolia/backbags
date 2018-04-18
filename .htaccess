@@ -1,0 +1,27 @@
+AddDefaultCharset UTF-8
+RewriteEngine On
+
+php_value register_globals 0
+
+RewriteBase /
+RewriteCond %{HTTP_HOST} (.*)
+RewriteCond %{REQUEST_URI} /$ [NC]
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)(/)$ $1 [L,R=301]
+
+Options +FollowSymlinks
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^(.*) /?%{QUERY_STRING}
+
+RewriteCond %{HTTP_HOST} ^www\.(.*) [NC]
+RewriteRule ^/?(.*) http://%1/$1 [L,R=permanent]
+
+#Усиливаем кеширование
+FileETag MTime Size
+<ifmodule mod_expires.c>
+<filesmatch ".(jpg|gif|png|css|js)$">
+ExpiresActive on
+ExpiresDefault "access plus 1 year"
+</filesmatch>
+</ifmodule>

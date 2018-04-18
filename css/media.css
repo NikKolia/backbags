@@ -1,0 +1,186 @@
+@media only screen and (max-width:1600px){.logo img{height:40px;width:42px;padding-top:2px;}
+.slogan h1{margin-top:5px;}
+.contacts{margin-top:-25px;margin-bottom:5px;margin-right:20px;}
+#right .intro_product, #right .intro_product img{width:220px;}
+}
+@media only screen and (max-width:1250px){	
+#right .intro_product, #right .intro_product img{width:210px;}
+#right .intro_product .loop img{left:-82px;}
+}
+@media only screen and (max-width:1240px){
+#right .intro_product_mod .loop img{left:-105px;}
+}
+@media only screen and (max-width:1200px){
+#right .intro_product, #right .intro_product img{width:200px;}
+#right .intro_product_mod, #right .intro_product_mod img{width:265px;}
+#right .intro_product .loop img{left:-78px;}
+#right .intro_product_mod .loop img{left:-100px;}
+}
+@media only screen and (max-width:1150px){.logo img{
+#right .intro_product, #right .intro_product img,
+#right .intro_product_mod, #right .intro_product_mod img{width:250px;}
+#right .intro_product .loop img{left:-95px;}
+#right .intro_product_mod .loop img{left:-93px;}
+#comment h4{padding-bottom:8px;}
+}
+@media only screen and (max-width:1081px){.logo img{height:40px;width:42px;padding-top:2px;}
+.slogan h1{margin-top:5px;}
+.contacts{margin-top:-25px;margin-bottom:5px;margin-right:20px;}
+}
+@media only screen and (max-width:1080px) {.logo img{height:50px;width:52px;}
+.slogan h1{margin-top:0;}
+.contacts{margin-top:0;margin-bottom:0;}	
+}
+@media only screen and (max-width:1075px){#right .intro_product, #right .intro_product img,
+#right .intro_product_mod, #right .intro_product_mod img{width:240px;}
+#right .intro_product .loop img,
+#right .intro_product_mod .loop img{top:-50px;left:-90px;}
+}
+@media only screen and (max-width:1060px){.sort .sortmarg{margin:0 0 0 15px;}
+}
+@media only screen and (max-width:1045px){#footer #copy p{font-size:13px;}
+}
+@media only screen and (max-width:1035px){#right .intro_product, #right .intro_product img,
+#right .intro_product_mod, #right .intro_product_mod img{width:230px;}
+#right .intro_product .loop img{top:-50px;left:-90px;}
+#right .intro_product_mod .loop img{top:-50px;left:-85px;}
+.copy{display:none;}
+}
+@media only screen and (max-width:1010px){.sort .sortmarg{margin:0 0 0 10px;}
+}
+@media only screen and (max-width:992px){#right .righttopm{margin-top:-30px;}.slogan h1{text-align:center;}
+#left .header{display:none;}
+#left #items{border-radius:5px;}
+#right .intro, #right .infos p,
+.advantages, .callbtext p,
+#others, #comment, .deliv p ,
+.addorder p{font-size:14px;}
+.sort .sortmarg{margin:0 0 0 20px;}
+.sort a:hover{color:#000000;}
+#right #productmod{margin-top:0px;}
+#right #others h3{font-size:14px;}
+#comment h4{font-size:15px;}
+#right #comment p, #right #comment #low{font-size:13px;}
+#menu{font-size:16px;float:left;width:40%;}
+.counter{font-size:18px;width:60%;display:inline-block;padding:0 5px 0 20px;}
+.count2{margin-bottom:6px;}
+.sort{float:none;margin:0 auto;}
+#right .intro_product, #right .intro_product img,
+#right .intro_product_mod, #right .intro_product_mod img{width:230px;}
+#right .intro_product .loop img,
+#right .intro_product_mod .loop img{left:-90px;}
+#right .intro{margin-top:20px;}
+#right .intromod{margin-top:0;}
+#callback .button{margin-top:10px;}
+.callbtext p{padding-bottom:10px;}
+#footer #counter p{margin:5px 0 10px 0;}
+.prod_desc h2, .prod_desc p, .prod_desc_low p{font-size:15px;}
+#right #productmod{margin-top:-5px;}
+}
+@media only screen and (max-width:985px){#right .intro_product, #right .intro_product img,
+#right .intro_product_mod, #right .intro_product_mod img{width:220px;}
+#right .intro_product .loop img,
+#right .intro_product_mod .loop img{left:-85px;}
+}
+@media only screen and (max-width:945px){#right .intro_product, #right .intro_product img,
+#right .intro_product_mod, #right .intro_product_mod img{width:210px;}
+#right .intro_product .loop img,
+#right .intro_product_mod .loop img{left:-80px;}
+}
+@media only screen and (max-width:900px){#right .intro_product, #right .intro_product img,
+#right .intro_product_mod, #right .intro_product_mod img{width:200px;}
+#right .intro_product .loop img,
+#right .intro_product_mod .loop img{left:-78px;}
+}
+@media only screen and (max-width:865px){.slogan h1{font-size:18px;}
+#right .intro_product, #right .intro_product img,
+#right .intro_product_mod, #right .intro_product_mod img{width:250px;}
+#right .intro_product .loop img,
+#right .intro_product_mod .loop img{left:-98px;}
+}
+@media only screen and (max-width:820px){.slogan h1{font-size:17px;}
+}
+@media only screen and (max-width:810px){#right .intro_product, #right .intro_product img,
+#right .intro_product_mod, #right .intro_product_mod img{width:240px;}
+#right .intro_product .loop img,
+#right .intro_product_mod .loop img{left:-95px;}
+}
+@media only screen and (max-width:780px){.slogan h1{font-size:16px;}
+#right .intro_product, #right .intro_product img,
+#right .intro_product_mod, #right .intro_product_mod img{width:230px;}
+#right .intro_product .loop img,
+#right .intro_product_mod .loop img{left:-89px;}
+}
+@media only screen and (max-width:768px){#left{margin-bottom:30px;}
+#right .intro_product .loop img,
+#right .intro_product_mod .loop img{left:-88px;}
+.counter{font-size:16px;padding:0 0 0 15px;}
+.first{margin-bottom:10px;}
+iframe{width:100%;height:auto;}
+}
+@media only screen and (max-width:750px){#right .intro_product, #right .intro_product img,
+#right .intro_product_mod, #right .intro_product_mod img{width:220px;}
+#right .intro_product .loop img,
+#right .intro_product_mod .loop img{left:-86px;}
+}
+@media only screen and (max-width:720px){#right .intro_product, #right .intro_product img,
+#right .intro_product_mod, #right .intro_product_mod img{width:210px;}
+#right .intro_product .loop img,
+#right .intro_product_mod .loop img{left:-80px;}
+}
+@media only screen and (max-width:690px){#right .intro_product, #right .intro_product img,
+#right .intro_product_mod, #right .intro_product_mod img{width:200px;}
+#right .intro_product .loop img,
+#right .intro_product_mod .loop img{left:-77px;}
+}
+@media only screen and (max-width:660px){#right .intro_product, #right .intro_product img,
+#right .intro_product_mod, #right .intro_product_mod img{width:190px;}
+#right .intro_product .loop img,
+#right .intro_product_mod .loop img{left:-73px;}
+#right #others .intro_product, #right #others .intro_product img{width:110px;}
+.intro_product .link_cart{background:url("../img/cartsm.png") no-repeat;display:block;height:32px;margin:0 auto;width:108px;}
+.intro_product .link_cart:hover{background:url("../img/cartsm_active.png") no-repeat;}
+}
+@media only screen and (max-width:630px){#right .intro_product, #right .intro_product img,
+#right .intro_product_mod, #right .intro_product_mod img{width:180px;}
+#right .intro_product .loop img,
+#right .intro_product_mod .loop img{left:-68px;}
+}
+@media only screen and (max-width:610px){#left{margin-bottom:8px;}
+}
+@media only screen and (max-width:590px){.sort .sortmarg{margin:0 0 0 10px;}
+}
+@media only screen and (max-width:565px){.sort p{float:none;margin:0 auto;}
+#right .righttop{margin-bottom:60px;}
+
+}
+@media only screen and (max-width:515px){.contacts{margin-right:0;}
+.w120, .ordertel, .ordermail, .orderdeliv{display:none;}
+#order input[type="text"]{margin:0 28px;}
+#order textarea{width:100%;}
+}
+@media only screen and (max-width:490px){#right .intro_product, #right .intro_product img,
+#right .intro_product_mod, #right .intro_product_mod img{width:250px;}
+#right .intro_product .loop img,
+#right .intro_product_mod .loop img{left:-95px;}
+#cart, #order, #address p,
+.deliv p{font-size:14px;}
+}
+@media only screen and (max-width:450px){.fb_low iframe{width:330px;height:40px;}
+}
+@media only screen and (max-width:400px){.counter{padding-left:5px;}
+.count2{margin-bottom:3px;}
+}
+@media only screen and (max-width:380px){.counter, #left #items{font-size:14px;}
+#order input[type="text"]{margin:0;}
+}
+@media only screen and (max-width:325px){#left #items{padding:5px 0 0;}
+}
+@media only screen and (max-width:292px){.tel1{margin-right:15px;}
+.tel2{margin:0;}
+}
+@media only screen and (min-width:320px){}
+@media only screen and (min-width:480px){}
+@media only screen and (min-width:768px){}
+@media only screen and (min-width:992px){}
+@media only screen and (min-width:1200px){}
